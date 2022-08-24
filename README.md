@@ -6,7 +6,6 @@
 </p>
 
 <h4 align="center">Animation by: <a href="https://fga-eps-mds.github.io/2018.2-GamesBI/especificacao/arquitetura.html">GamesBi</a> </h4>
-<hr>
 
 ## What's about? 🤔
 ### Learning new technologies and applying what we've learned.
@@ -15,7 +14,6 @@ A personal mini project that aims to retrieve stocks market info about chosen co
 them to a _RDS_ database in _AWS_. Further on, some data analysis will be made, developing some 
 insights regarding these companies´ stocks behavior.
 
-<hr>
 
 ## How it works? 👷
 ### We used the concept of what is an ETL to guide us on this project.
@@ -34,8 +32,7 @@ insights regarding these companies´ stocks behavior.
 
 - AWS 💸
     - bye bye money 
-
-<hr>
+    
 
 ## How to maintain?
 
