@@ -20,10 +20,10 @@ insights regarding these companies´ stocks behavior.
 ## How it works? 👷
 ### We used the concept of what is an ETL to guide us on this project.
 
-This project was possible by using webscraping and crawler to extract the HTML font and then 
+This project was possible by using webscraping and a crawler to extract the HTML font and then 
 RegEx to find the important data. To extract the data we used the website <a href="https://www.investing.com">_investing.com_</a>
 followed by it's pages (crawling with Scrapy), and to find the significant data to us, we used RegEx. On the image bellow
-it's possible to understand better all the process.
+it's possible to better understand all the process.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81690594/186456802-1034fe93-91b5-482b-b8cc-2adc7345b027.png"/>
